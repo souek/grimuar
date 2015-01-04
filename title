@@ -1,0 +1,10 @@
+\begingroup
+\thispagestyle{empty}
+\AddToShipoutPicture*{\put(6,5){\includegraphics[scale=1]{background}}} % Image background
+\centering
+\vspace*{9cm}
+\par\normalfont\fontsize{35}{35}\sffamily\selectfont
+Grimuar Kuchenny\par % Book title
+\vspace*{1cm}
+{\Huge Grzegorz Sołowiej}\par % Author name
+\endgroup
