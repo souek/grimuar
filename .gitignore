@@ -8,10 +8,13 @@
 *.acr
 *.alg
 *.bbl
+*.bcf
+*.bib
 *.blg
 *.dvi
 *.glg
 *.gls
+*.fdb_latexmk
 *.ilg
 *.ind
 *.lof
@@ -20,6 +23,8 @@
 *.mtc
 *.mtc1
 *.out
+*.ptc
+*.run.xml
 *.synctex.gz 
 *.pdf
 !grimuar.pdf
@@ -28,3 +33,4 @@
 !Pictures/chapter_head_2.pdf'
 !Pictures/placeholder.jpg'
 !Pictures/
+!Pictures/*
