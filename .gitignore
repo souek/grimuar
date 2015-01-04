@@ -23,3 +23,8 @@
 *.synctex.gz 
 *.pdf
 !grimuar.pdf
+!Pictures/background.pdf'
+!Pictures/chapter_head_1.pdf'
+!Pictures/chapter_head_2.pdf'
+!Pictures/placeholder.jpg'
+!Pictures/
